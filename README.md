@@ -18,7 +18,7 @@
 - **Search Functionality:** Quickly find your favorite songs and artists.
 - **User Authentication:** Secure login and registration for personalized experiences(under developement).
 - **Playlists:** Create and manage your own playlists.
-- **Music Player:** Enjoy seamless music playback with advanced controls.
+- **Music Player:** Enjoy seamless music playback with advanced controls(under developement).
 - **Favorites:** Mark songs as favorites for easy access(under developement).
 - **Offline Mode:** Download songs to listen offline.
 
